@@ -5,4 +5,4 @@ Client : Recieves the encrypted message and decrypts it
 
 The communication of the messages can be done both ways i.e. client-server and server-client
 
-Have used the AES
+Have used the AES and uECC libraries which aree publicly available
